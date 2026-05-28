@@ -22,7 +22,7 @@
 ###
 <h3 align="left">🤖 Desarrollo Asistido por IA</h3>
 ###
-<p align="left">En este perfil encontrarás proyectos avanzados diseñados y estructurados por mí, utilizando <strong>Claude (Anthropic)</strong> como asistente de programación, copiloto de código y herramienta de optimización de software.</p>
+<p align="left">En este perfil encontrarás proyectos avanzados diseñados y estructurados por mí, utilizando Claude (Anthropic) como asistente de programación, copiloto de código y herramienta de optimización de software.</p>
 ###
 <h3 align="left">🛠 Language and tools</h3>
 ###
